@@ -1,4 +1,4 @@
-# Application CART - Service Spring Boot
+# BankApp - Service Spring Boot / React
 
 Voir la démo sur YouTube:
 <a href="https://youtu.be/fDjJwIUhGWw">
@@ -8,17 +8,28 @@ Voir la démo sur YouTube:
 
 
 https://youtu.be/fDjJwIUhGWw
+
+## UseCase
+
+BankApp est une solution complète de gestion bancaire conçue pour les institutions financières, les développeurs d'applications bancaires et les étudiants en technologie à la recherche d'un modèle fonctionnel pour leurs projets. Elle offre une interface API robuste permettant d'effectuer une variété d'opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) sur la base de données, rendant la gestion de comptes clients et de cartes bancaires à la fois fluide et intuitive.
+
+## Fonctionnalités de l'API
+
+- **Gestion des Clients** : Ajout de nouveaux clients, mise à jour des informations des clients existants, suppression de clients.
+- **Gestion des Cartes** : Ajout de nouvelles cartes bancaires, modification des limites de crédit, mise à jour des informations des cartes, suppression de cartes.
+- **Transactions et Opérations** : Support pour les transactions financières standard, y compris mais non limité à l'édition et la mise à jour des soldes et des limites.
+
 ## Mise en place côté serveur avec Spring Boot
 
 ### Introduction
 
-Cette application Spring Boot, intitulée 'CART', a été conçue à des fins éducatives.
-J'ai intégré le tutoriel fonctionnel 'Calculateur' dans le projet pour assurer une base solide semblable à celle du tutoriel initial. Cette intégration est une étape préparatoire pour le développement et le déploiement des tests spécifiques à l'application 'CART'.
+Cette application Spring Boot a été conçue à des fins éducatives.
+J'ai intégré le test fonctionnel 'Calculateur' dans le projet pour assurer une base solide. Cette intégration est une étape préparatoire pour le développement et le déploiement des tests spécifiques à l'application 'CART'.
 
 ### Configuration de l'environnement de développement
 
-1. Assurez-vous que Java 17 et Maven sont installés et configurés correctement sur votre machine.
-2. Ouvrez un terminal et naviguez jusqu'au répertoire racine de l'application 'CART'.
+1. Assurez-vous que Java 8 (ou ultérieure) et Maven sont installés et configurés correctement sur votre machine.
+2. Ouvrez un terminal et naviguez jusqu'au répertoire racine de 'CARDS'.
 3. Exécutez les commandes suivantes pour démarrer l'application :
 
    ```bash
