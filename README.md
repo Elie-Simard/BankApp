@@ -69,7 +69,3 @@ Pour démarrer un serveur HTTP et consulter le rapport JaCoCo :
    ```bash
    http-server
    ```
-
----
-
-Vous pouvez ajuster la taille et le style de l'image YouTube et modifier les commandes et le texte selon vos besoins.
