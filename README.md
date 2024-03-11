@@ -1,8 +1,3 @@
-Voici votre README formaté avec des extraits de code pour les commandes et un lien vers la vidéo YouTube intégré :
-
----
-
-
 # Application CART - Service Spring Boot
 
 Voir la démo sur YouTube:
