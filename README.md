@@ -11,7 +11,7 @@ https://youtu.be/fDjJwIUhGWw
 
 ## UseCase
 
-BankApp est une solution complète de gestion bancaire conçue pour les institutions financières, les développeurs d'applications bancaires et les étudiants en technologie à la recherche d'un modèle fonctionnel pour leurs projets. Elle offre une interface API robuste permettant d'effectuer une variété d'opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) sur la base de données, rendant la gestion de comptes clients et de cartes bancaires à la fois fluide et intuitive.
+BankApp est une solution de gestion bancaire conçue à des fins éducatives. Elle offre une interface API permettant d'effectuer une variété d'opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) sur la base de données, rendant la gestion de comptes clients et de cartes bancaires à la fois fluide et intuitive.
 
 ## Fonctionnalités de l'API
 
