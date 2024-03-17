@@ -1,13 +1,24 @@
 # BankApp - Service Spring Boot / React
 
-Voir la démo sur YouTube:
-<a href="https://youtu.be/fDjJwIUhGWw">
-  <img width="1710" alt="Screenshot 2024-03-11 at 9 56 18 AM" src="https://github.com/Elie-Simard/BankApp/assets/104814268/76645c6c-b8a5-4613-9674-ac9cd68f48d0">
-</a>
+## Update, delete
+
+https://github.com/Elie-Simard/BankApp/assets/104814268/330b9e35-67f6-4a1c-854b-57f88ac6fd1c
+
+## Add, Search
+
+https://github.com/Elie-Simard/BankApp/assets/104814268/6e7bc994-97f7-4b1e-8aeb-aaeba8dfa1b3
 
 
 
-https://youtu.be/fDjJwIUhGWw
+## Clients table
+
+https://github.com/Elie-Simard/BankApp/assets/104814268/7e330d50-641a-4584-8276-63d3681a2ab0
+
+
+
+
+
+
 
 ## UseCase
 
